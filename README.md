@@ -1,1 +1,1 @@
-Here is code for interpreter in c++ code 
+Here is code for interpreter in C code 
